@@ -1,11 +1,12 @@
-.DS_Store
-node_modules/
-.expo/
-npm-debug.log
-TODO.md
-yarn-error.log
-.idea
-.vscode
-Exponent-*.app
-*.log
-lib/
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
